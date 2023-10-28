@@ -12,3 +12,14 @@ Puede crear una cuenta y acceder a las funcionalidades previamente mencionadas.
 2.- Administrador:
 
 Tiene capacidad de hacer las funciones de un CRUD sobre el usuario y juegos de la plataforma.
+
+
+<h2>Como ejecutar:</h2>
+
+Descargar zip desde github
+Descomprimir
+Importar carpeta a un ide (de preferencia netbeans) por temas de compatibilidad
+Ejecutar proyecto
+
+#Actualizacion de proyecto pendiente: mejoras de código, más funciones, optimización, eliminación de archivos y código basura, posibilidad de ejecutar solo con un jar, etc.
+
